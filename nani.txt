@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+ printf("hello india")
+ scanf("%d", &a)
+ prinf("%d", a)
+ return 0;
+}
